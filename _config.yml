@@ -1,15 +1,15 @@
 
 # Setup
-title:               DevAid
-email:               example@gmail.com
-tagline:             Free Jekyll theme made for developers
+title:               ShiftWP
+email:               AndrewKoszela@gmail.com
+tagline:             Wordpress Plugin
 url:                 "" # insert your site's URL
 baseurl:             ""
 
 # About/contact
 author: # you can edit these to be your personal details
-  name:              Xiaoying Riley
-  url:               https://twitter.com/3rdwave_themes
+  name:              Andrew Koszela
+  url:               https://twitter.com/AndrewKoszela
   email:
 
 # Google services
